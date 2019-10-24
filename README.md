@@ -40,8 +40,8 @@ Here is a brief list of the papers (to be continued) that have used this dataset
 - **MDANet**: Learning Multi-Domain Adversarial Neural Networks for Text Classification [[IEEE Acess2019]](https://ieeexplore.ieee.org/document/8666710)
 
 ## Other Resources
-- For a comprehensive list of papers and implementation(official or unofficial) for transfer learning/domain adapation methods on NLP/Computer Vision, please refer to [[jindongwang/transferlearning]](https://github.com/jindongwang/transferlearning).
-- Another transfer learning resources [[artix41/awesome-transfer-learning]](https://github.com/artix41/awesome-transfer-learning).
--  Longer list of papers on Domain adaptation for NLP/Computer Vision [[zhaoxin94/awsome-domain-adaptation/]](https://github.com/zhaoxin94/awsome-domain-adaptation/blob/master/README.md).
-
+- For a comprehensive list of papers and implementation(official or unofficial) for transfer learning/domain adapation methods on NLP/Computer Vision, please refer to [[Transfer Learning]](https://github.com/jindongwang/transferlearning).
+- Another transfer learning resources [[Awesome-transfer-learning]](https://github.com/artix41/awesome-transfer-learning).
+-  Longer list of papers on Domain adaptation for NLP/Computer Vision [[Awsome-domain-adaptation/]](https://github.com/zhaoxin94/awsome-domain-adaptation/blob/master/README.md).
+- Another papers list on Unsupervised Domain adaptations, conference/journal/arxiv papers, [[Unsupervised Domain Adaptation]](https://github.com/barebell/DA).
 
