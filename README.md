@@ -35,7 +35,7 @@ Here is a brief list of the papers (to be continued) that have used this dataset
 [[Pytorch]](https://github.com/jiangfeng1124/transfer)
 [[Data]](https://github.com/jiangfeng1124/transfer)
 - **MAN**: Multinomial Adversarial Networks for Multi-Domain Text Classification [[NAACL2018]](https://www.aclweb.org/anthology/N18-1111/)
-    [[Pytorch]](https://www.aclweb.org/anthology/attachments/N18-1111.Software.tgz)
+    [[Pytorch]](https://github.com/ccsasuke/man) [[tgzfromACL]](https://www.aclweb.org/anthology/attachments/N18-1111.Software.tgz)
 - **DACL**: Dual Adversarial Co-Learning for Multi-Domain Text Classification [[arxiv2019]](https://arxiv.org/abs/1909.08203)
 - **MDANet**: Learning Multi-Domain Adversarial Neural Networks for Text Classification [[IEEE Acess2019]](https://ieeexplore.ieee.org/document/8666710)
 
