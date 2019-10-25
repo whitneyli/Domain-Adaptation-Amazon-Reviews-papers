@@ -1,5 +1,5 @@
-# awesome-domain-adaptation-amazon-reviews
-resources of domain adaptation papers on sentiment analysis that have used Amazon reviews
+# Domain Adaptation on Amazon Reviews (four proudct) data
+Resources of domain adaptation papers on sentiment analysis that have used Amazon reviews
 
 ## Dataset
 The [Multi-Domain Sentiment Dataset](https://www.cs.jhu.edu/~mdredze/datasets/sentiment/) was used in many domain adapation papers for sentiment analysis task.  It was first used in [Blitzer et al, (2007)](https://www.cs.jhu.edu/~mdredze/publications/sentiment_acl07.pdf). It contains more than 340, 000 reviews from 25 different types of products from Amazon.com (Chen et al.2012). Some domains (books and dvds) have hundreds of thousands of reviews. Others (musical instruments) have only a few hundred. Reviews contain star ratings (1 to 5 stars) that can be converted into binary labels if needed.  A subset of this dataset containing
