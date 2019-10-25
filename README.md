@@ -1,4 +1,4 @@
-# Domain Adaptation on Amazon Reviews (four proudct) data
+# Domain Adaptation on Amazon Reviews (four proudcts) data
 Resources of domain adaptation papers on sentiment analysis that have used Amazon reviews
 
 ## Dataset
