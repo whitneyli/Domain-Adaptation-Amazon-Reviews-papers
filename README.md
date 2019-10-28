@@ -27,6 +27,10 @@ Here is a brief list of the papers (to be continued) that have used this dataset
 [[Python]](https://github.com/GRAAL-Research/domain_adversarial_neural_network)
 - **CORAL**: Return of Frustratingly Easy Domain Adaptation. [[AAAI16]](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/12443/11842) [[Matlab official]](https://github.com/VisionLearningGroup/CORAL)
 - **CORAL+mSDA**: Domain Adaptation for Sentiment Analysis [link](https://ashkamath.github.io/projects/Dom_ad/)
+- **AMN** and **HATN**:End-to-End Adversarial Memory Network for Cross-domain Sentiment
+Classification [[IJCAI17]](https://www.ijcai.org/proceedings/2017/0311.pdf)
+Hierarchical Attention Transfer Network for Cross-Domain Sentiment Classification [[AAAI-18]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16873/16149)
+[[Tensorflow]](https://github.com/hsqmlzno1/HATN)
 
 ## Multi Source DA
 - **MDAN**: Adversarial Multiple Source Domain Adaptation [[NIPS2018]](http://papers.nips.cc/paper/8075-adversarial-multiple-source-domain-adaptation) [[Pytorch]](https://github.com/KeiraZhao/MDAN)
