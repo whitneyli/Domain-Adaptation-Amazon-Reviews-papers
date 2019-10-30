@@ -49,6 +49,7 @@ Pivot Based Language Modeling for Improved Neural Domain Adaptation." Yftah Zise
 
 
 ## Multi Source DA
+- **SDAMS**: Sentiment Domain Adaptation with Multiple Sources [[ACL16]](https://www.aclweb.org/anthology/P16-1029/)
 - **MDAN**: Adversarial Multiple Source Domain Adaptation [[NIPS2018]](http://papers.nips.cc/paper/8075-adversarial-multiple-source-domain-adaptation) [[Pytorch]](https://github.com/KeiraZhao/MDAN)
 [[Data]](https://github.com/KeiraZhao/MDAN)
 - **MoE**: Multi-Source Domain Adaptation with Mixture of Experts 
