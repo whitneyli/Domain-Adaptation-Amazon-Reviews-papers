@@ -49,7 +49,13 @@ Pivot Based Language Modeling for Improved Neural Domain Adaptation." Yftah Zise
 
 
 ## Multi Source DA
+-**Mansour et al.(2009)**: Domain Adaptation with Multiple Sources [[NIPS2009]](https://papers.nips.cc/paper/3550-domain-adaptation-with-multiple-sources)
+- **SST**: Using Multiple Sources to Construct a Sentiment Sensitive Thesaurus for Cross-Domain Sentiment Classification [[ACL-HLT2011]](https://www.aclweb.org/anthology/P11-1014/)
 - **SDAMS**: Sentiment Domain Adaptation with Multiple Sources [[ACL16]](https://www.aclweb.org/anthology/P16-1029/)
+
+    Include results with **DAM**:Domain adaptation from multiple sources via auxiliary classifiers [[ICML09]](https://dl.acm.org/citation.cfm?id=1553411), originally evaluated on video data.
+    Also compared with method in: Multi-source domain adaptation and its application
+to early detection of fatigue [[KDD2011]](https://dl.acm.org/citation.cfm?id=2382582)
 - **MDAN**: Adversarial Multiple Source Domain Adaptation [[NIPS2018]](http://papers.nips.cc/paper/8075-adversarial-multiple-source-domain-adaptation) [[Pytorch]](https://github.com/KeiraZhao/MDAN)
 [[Data]](https://github.com/KeiraZhao/MDAN)
 - **MoE**: Multi-Source Domain Adaptation with Mixture of Experts 
