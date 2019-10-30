@@ -28,11 +28,11 @@ Transfer Learning with Deep Autoencoders][[IJCAI15]](http://www.intsci.ac.cn/use
 - **DANN**: Domain-Adversarial Training of Neural Networks. [[Journal of Machine Learning Research 2016]](http://jmlr.org/papers/v17/15-239.html)
 [[Python for Reveiws]](https://github.com/GRAAL-Research/domain_adversarial_neural_network)
 
-Yaroslav Ganin and Victor Lempitsky, Unsupervised Domain Adaptation by Backpropagation [[ICML15]](http://sites.skoltech.ru/compvision/projects/grl/files/paper.pdf)[[project page(code)]](http://sites.skoltech.ru/compvision/projects/grl/) - evaluate on images dataset (Office, Webcam, Amazon).
+    Yaroslav Ganin and Victor Lempitsky, Unsupervised Domain Adaptation by Backpropagation [[ICML15]](http://sites.skoltech.ru/compvision/projects/grl/files/paper.pdf)[[project page(code)]](http://sites.skoltech.ru/compvision/projects/grl/) - evaluate on images dataset (Office, Webcam, Amazon).
 
-Ajakan et al., 2014, Domain-Adversarial Neural Networks [[NIPS 2014workshop]] (https://arxiv.org/abs/1412.4446) - evaluate on Amazon reviewers dataset
+    Ajakan et al., 2014, Domain-Adversarial Neural Networks [[NIPS 2014workshop]] (https://arxiv.org/abs/1412.4446) - evaluate on Amazon reviewers dataset
 
-**NOTE**: The authors came up similar idea then published the journal paper together as said by Ganin and Victor(2015): "a very
+    **NOTE**: The authors came up similar idea then published the journal paper together as said by Ganin and Victor(2015): "a very
 similar idea to ours has been developed in parallel and independently for shallow architecture (with a single hidden
 layer) in (Ajakan et al., 2014). Their system is evaluated
 on a natural language task (sentiment analysis). "
