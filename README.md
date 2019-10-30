@@ -12,8 +12,9 @@ Here is a brief list of the papers (to be continued) that have used this dataset
 - **SCL**: Bollywood, Boom-boxes and Blenders: Domain Adaptation for Sentiment Classification. Association of Computational Linguistics [[ACL2007]](https://www.cs.jhu.edu/~mdredze/publications/sentiment_acl07.pdf)
 ![SCL paper reported accuracies](link-to-image)
 
-- **SFA**:
-- **MCT**:
+- **SFA**: Cross-domain sentiment classification via spectral feature alignment [[WWW10]](https://dl.acm.org/citation.cfm?doid=1772690.1772767)
+- **MCT**: Multi-domain Adaptation for Sentiment Classification: using Multiple
+Classifier Combining Methods [[NLPKE,IEEE,2008]](https://ieeexplore.ieee.org/document/4906772/metrics#metrics)
 
 - **SDA**: Domain Adaptation for Large-Scale Sentiment Classification:A Deep Learning Approach
 [[ICML2011]](http://www.icml-2011.org/papers/342_icmlpaper.pdf)
