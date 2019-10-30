@@ -26,7 +26,17 @@ Here is a brief list of the papers (to be continued) that have used this dataset
    Including results with another method **TLDA** from [Supervised Representation Learning:
 Transfer Learning with Deep Autoencoders][[IJCAI15]](http://www.intsci.ac.cn/users/zhuangfuzhen/paper/IJCAI15-578.pdf) which evaluated on ImageNet dataset.
 - **DANN**: Domain-Adversarial Training of Neural Networks. [[Journal of Machine Learning Research 2016]](http://jmlr.org/papers/v17/15-239.html)
-[[Python]](https://github.com/GRAAL-Research/domain_adversarial_neural_network)
+[[Python for Reveiws]](https://github.com/GRAAL-Research/domain_adversarial_neural_network)
+
+Yaroslav Ganin and Victor Lempitsky, Unsupervised Domain Adaptation by Backpropagation [[ICML15]](http://sites.skoltech.ru/compvision/projects/grl/files/paper.pdf)[[project page(code)]](http://sites.skoltech.ru/compvision/projects/grl/) - evaluate on images dataset (Office, Webcam, Amazon).
+
+Ajakan et al., 2014, Domain-Adversarial Neural Networks [[NIPS 2014workshop]] (https://arxiv.org/abs/1412.4446) - evaluate on Amazon reviewers dataset
+
+**NOTE**: The authors came up similar idea then published the journal paper together as said by Ganin and Victor(2015): "a very
+similar idea to ours has been developed in parallel and independently for shallow architecture (with a single hidden
+layer) in (Ajakan et al., 2014). Their system is evaluated
+on a natural language task (sentiment analysis). "
+
 - **CORAL**: Return of Frustratingly Easy Domain Adaptation. [[AAAI16]](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/12443/11842) [[Matlab official]](https://github.com/VisionLearningGroup/CORAL)
 - **CORAL+mSDA**: Domain Adaptation for Sentiment Analysis [link](https://ashkamath.github.io/projects/Dom_ad/)
 - **AMN** and **HATN**:End-to-End Adversarial Memory Network for Cross-domain Sentiment
