@@ -21,8 +21,8 @@ Here is a brief list of the papers (to be continued) that have used this dataset
 [[Python]]()
 [[Matlab]]()
 [[Data]]()
-- **TLDA**:
 - **BTDNN**: Bi-Transferring Deep Neural Networks for Domain Adaptation [[ACL2016]](https://www.aclweb.org/anthology/P16-1031/) 
+
    Including results with another method **TLDA** from [Supervised Representation Learning:
 Transfer Learning with Deep Autoencoders][[IJCAI15]](http://www.intsci.ac.cn/users/zhuangfuzhen/paper/IJCAI15-578.pdf) which evaluated on ImageNet dataset.
 - **DANN**: Domain-Adversarial Training of Neural Networks. [[Journal of Machine Learning Research 2016]](http://jmlr.org/papers/v17/15-239.html)
