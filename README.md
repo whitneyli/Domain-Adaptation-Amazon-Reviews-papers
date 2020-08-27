@@ -66,7 +66,10 @@ to early detection of fatigue [[KDD2011]](https://dl.acm.org/citation.cfm?id=238
     [[Pytorch]](https://github.com/ccsasuke/man) [[tgzfromACL]](https://www.aclweb.org/anthology/attachments/N18-1111.Software.tgz)
 - **DACL**: Dual Adversarial Co-Learning for Multi-Domain Text Classification [[arxiv2019]](https://arxiv.org/abs/1909.08203)
 - **MDANet**: Learning Multi-Domain Adversarial Neural Networks for Text Classification [[IEEE Acess2019]](https://ieeexplore.ieee.org/document/8666710)
-
+- **DSR-at**: Learning Domain Representation for Multi-Domain Sentiment Classification[[NAACL18]](https://leuchine.github.io/papers/naacl18sentiment.pdf)
+- ****:Multi-Domain Sentiment Classification Based on Domain-Aware Embedding and Attention [[IJCAI19]](https://www.ijcai.org/Proceedings/2019/0681.pdf)
+  NOTE: This paper evaluates on another Amazon dataset(Liu et al,  2017), but compared with for exampel DSR-at.
+  
 ## Other Resources
 - For a comprehensive list of papers and implementation(official or unofficial) for transfer learning/domain adapation methods on NLP/Computer Vision, please refer to [[Transfer Learning]](https://github.com/jindongwang/transferlearning).
 - Another transfer learning resources [[Awesome-transfer-learning]](https://github.com/artix41/awesome-transfer-learning).
