@@ -40,14 +40,19 @@ on a natural language task (sentiment analysis). "
 
 - **CORAL**: Return of Frustratingly Easy Domain Adaptation. [[AAAI16]](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/12443/11842) [[Matlab official]](https://github.com/VisionLearningGroup/CORAL)
 - **CORAL+mSDA**: Domain Adaptation for Sentiment Analysis [link](https://ashkamath.github.io/projects/Dom_ad/)
-- **AsyTri-training**:Asymmetric Tri-training for Unsupervised Domain Adaptation [[pdf]](https://arxiv.org/pdf/1702.08400.pdf) [[python code]](https://github.com/ksaito-ut/atda) Saito et al.2017
-- **DAS**: Adaptive Semi-supervised Learning for Cross-domain Sentiment Classification[[pdf]](https://arxiv.org/pdf/1702.08400.pdf)[[code]](https://github.com/ruidan/DAS) He et al 2018
+- **AsyTri-training**:Asymmetric Tri-training for Unsupervised Domain Adaptation [[ICML2017]](https://arxiv.org/pdf/1702.08400.pdf) [[python code]](https://github.com/ksaito-ut/atda) Saito et al.2017
+- **DAS**: Adaptive Semi-supervised Learning for Cross-domain Sentiment Classification[[EMNLP2018]](https://arxiv.org/pdf/1702.08400.pdf)[[code]](https://github.com/ruidan/DAS) He et al 2018
 - **AMN** and **HATN**:End-to-End Adversarial Memory Network for Cross-domain Sentiment
 Classification [[IJCAI17]](https://www.ijcai.org/proceedings/2017/0311.pdf)
 Hierarchical Attention Transfer Network for Cross-Domain Sentiment Classification [[AAAI-18]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16873/16149)
 [[Tensorflow]](https://github.com/hsqmlzno1/HATN)
 - **AE-SCL** and **PBLM**: Neural Structural Correspondence Learning for Domain Adaptation [[CoNLL 2017]](https://www.aclweb.org/anthology/K/K17/K17-1040.pdf) [[Python]](https://github.com/yftah89/Neural-SCL-Domain-Adaptation) and also [[SCL]](https://github.com/yftah89/structural-correspondence-learning-SCL) implemented by the authors.
 Pivot Based Language Modeling for Improved Neural Domain Adaptation." Yftah Ziser and Roi Reichart [[http://www.aclweb.org/anthology/N18-1112]] [[Tensorflow]](https://github.com/yftah89/PBLM-Domain-Adaptation)
+-**CFd (pre-tained LM+feature self-distillation+self-training)**:Feature Adaptation of Pre-Trained Language Models across Languages and Domains for Text Classification [[EMNLP2020]](https://arxiv.org/pdf/2009.11538.pdf)
+    
+    Note: This paper experiments with cross domain and cross language adaptation, the results for this Amazon benchmark dataset is in Apendix B
+    The Authors' another related cross language adaptation paper 
+    - **XML-UFD**: Unsupervised Domain Adaptation of a Pretrained Cross-Lingual Language Model [[IJCAI2020]](https://www.ijcai.org/Proceedings/2020/508)
 
 
 ## Multi Source DA
