@@ -50,8 +50,7 @@ Hierarchical Attention Transfer Network for Cross-Domain Sentiment Classificatio
 Pivot Based Language Modeling for Improved Neural Domain Adaptation." Yftah Ziser and Roi Reichart [[http://www.aclweb.org/anthology/N18-1112]] [[Tensorflow]](https://github.com/yftah89/PBLM-Domain-Adaptation)
 -  **CFd (pre-tained LM+feature self-distillation+self-training)**:Feature Adaptation of Pre-Trained Language Models across Languages and Domains for Text Classification [[EMNLP2020]](https://arxiv.org/pdf/2009.11538.pdf)
     
-    Note: This paper experiments with cross domain and cross language adaptation, the results for this Amazon benchmark dataset is in Apendix B
-    The Authors' another related cross language adaptation paper 
+    Note: This paper experiments with cross domain and cross language adaptation, same groups of authors related to DAS paper. The results for this Amazon benchmark dataset is in Apendix B. The Authors' another related cross language adaptation paper 
     - **XML-UFD**: Unsupervised Domain Adaptation of a Pretrained Cross-Lingual Language Model [[IJCAI2020]](https://www.ijcai.org/Proceedings/2020/508)
 
 
