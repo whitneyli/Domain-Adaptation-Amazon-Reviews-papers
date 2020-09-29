@@ -48,6 +48,7 @@ Hierarchical Attention Transfer Network for Cross-Domain Sentiment Classificatio
 [[Tensorflow]](https://github.com/hsqmlzno1/HATN)
 - **AE-SCL** and **PBLM**: Neural Structural Correspondence Learning for Domain Adaptation [[CoNLL 2017]](https://www.aclweb.org/anthology/K/K17/K17-1040.pdf) [[Python]](https://github.com/yftah89/Neural-SCL-Domain-Adaptation) and also [[SCL]](https://github.com/yftah89/structural-correspondence-learning-SCL) implemented by the authors.
 Pivot Based Language Modeling for Improved Neural Domain Adaptation." Yftah Ziser and Roi Reichart [[http://www.aclweb.org/anthology/N18-1112]] [[Tensorflow]](https://github.com/yftah89/PBLM-Domain-Adaptation)
+-  **BERT-DAAT**: Adversarial and Domain-Aware BERT for Cross-Domain Sentiment Analysis [[ACL2020]](https://www.aclweb.org/anthology/2020.acl-main.370/)
 -  **CFd (pre-tained LM+feature self-distillation+self-training)**:Feature Adaptation of Pre-Trained Language Models across Languages and Domains for Text Classification [[EMNLP2020]](https://arxiv.org/pdf/2009.11538.pdf)
     
     Note: This paper experiments with cross domain and cross language adaptation, same groups of authors related to DAS paper. The results for this Amazon benchmark dataset is in Apendix B. The Authors' another related cross language adaptation paper 
