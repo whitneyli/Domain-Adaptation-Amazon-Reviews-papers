@@ -40,6 +40,8 @@ on a natural language task (sentiment analysis). "
 
 - **CORAL**: Return of Frustratingly Easy Domain Adaptation. [[AAAI16]](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/12443/11842) [[Matlab official]](https://github.com/VisionLearningGroup/CORAL)
 - **CORAL+mSDA**: Domain Adaptation for Sentiment Analysis [link](https://ashkamath.github.io/projects/Dom_ad/)
+- **AsyTri-training**:Asymmetric Tri-training for Unsupervised Domain Adaptation [[pdf]](https://arxiv.org/pdf/1702.08400.pdf) [[python code]](https://github.com/ksaito-ut/atda) Saito et al.2017
+- **DAS**: Adaptive Semi-supervised Learning for Cross-domain Sentiment Classification[[pdf]](https://arxiv.org/pdf/1702.08400.pdf)[[code]](https://github.com/ruidan/DAS) He et al 2018
 - **AMN** and **HATN**:End-to-End Adversarial Memory Network for Cross-domain Sentiment
 Classification [[IJCAI17]](https://www.ijcai.org/proceedings/2017/0311.pdf)
 Hierarchical Attention Transfer Network for Cross-Domain Sentiment Classification [[AAAI-18]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16873/16149)
