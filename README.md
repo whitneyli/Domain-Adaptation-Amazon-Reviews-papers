@@ -77,7 +77,19 @@ to early detection of fatigue [[KDD2011]](https://dl.acm.org/citation.cfm?id=238
 - ****:Multi-Domain Sentiment Classification Based on Domain-Aware Embedding and Attention [[IJCAI19]](https://www.ijcai.org/Proceedings/2019/0681.pdf)
   NOTE: This paper evaluates on another Amazon dataset(Liu et al,  2017), but compared with for exampel DSR-at.
 - ****: Transformer Based Multi-Source Domain Adaptation [[EMNLP2020]](https://arxiv.org/abs/2009.07806)[[Pytorch]](https://github.com/copenlu/xformer-multi-source-domain-adaptation)
+- ****: 
+
+
    NOTE: There are a few other domain adaptation papers on [EMNLP2020](https://2020.emnlp.org/papers/main) seems interesting.
+   
+   Effective Unsupervised Domain Adaptation with Adversarially Trained Language Models [[EMNLP2020]](https://arxiv.org/pdf/2010.01739.pdf)
+       -- This paper evaluate on NER.
+   - Low-Resource Domain Adaptation for Compositional Task-Oriented Semantic Parsing. Xilun Chen, Asish Ghoshal, Yashar Mehdad, Luke Zettlemoyer and Sonal Gupta.
+   - End-to-End Synthetic Data Generation for Domain Adaptation of Question Answering Systems. Siamak Shakeri, Cicero Nogueira dos Santos, Henghui Zhu, Patrick Ng, Feng Nan, Zhiguo Wang, Ramesh Nallapati and Bing Xiang.
+   - Unified Feature and Instance Based Domain Adaptation for Aspect-Based Sentiment Analysis. Chenggong Gong, Jianfei Yu and Rui Xia.
+   - Multi-Stage Pre-training for Low-Resource Domain Adaptation. Rong Zhang, Revanth Gangi Reddy, Md Arafat Sultan, Vittorio Castelli, Anthony Ferritto, Radu Florian, Efsun Sarioglu Kayi, Salim Roukos, Avi Sil and Todd Ward.
+   - Simple Data Augmentation with the Mask Token Improves Domain Adaptation for Dialog Act Tagging. Semih Yavuz, Kazuma Hashimoto, Wenhao Liu, Nitish Shirish Keskar, Richard Socher and Caiming Xiong.
+
   
 ## Other Resources
 - For a comprehensive list of papers and implementation(official or unofficial) for transfer learning/domain adapation methods on NLP/Computer Vision, please refer to [[Transfer Learning]](https://github.com/jindongwang/transferlearning).
