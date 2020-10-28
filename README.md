@@ -89,6 +89,14 @@ to early detection of fatigue [[KDD2011]](https://dl.acm.org/citation.cfm?id=238
    - Unified Feature and Instance Based Domain Adaptation for Aspect-Based Sentiment Analysis. Chenggong Gong, Jianfei Yu and Rui Xia.
    - Multi-Stage Pre-training for Low-Resource Domain Adaptation. Rong Zhang, Revanth Gangi Reddy, Md Arafat Sultan, Vittorio Castelli, Anthony Ferritto, Radu Florian, Efsun Sarioglu Kayi, Salim Roukos, Avi Sil and Todd Ward.
    - Simple Data Augmentation with the Mask Token Improves Domain Adaptation for Dialog Act Tagging. Semih Yavuz, Kazuma Hashimoto, Wenhao Liu, Nitish Shirish Keskar, Richard Socher and Caiming Xiong.
+   
+- ****: Multi-Source Domain Adaptation for Text Classification via DistanceNet-Bandits[[AAAI2020]](https://arxiv.org/pdf/2001.04362.pdf) 
+    - Note: this paper use the dataset contains this Amazon product reivew dataset
+
+
+## Survey Papers
+-**Amazon Review results for multiple methods**: A Comprehensive Survey on Transfer Learning [[Proceedings of the IEEE 07 July 2020]](https://arxiv.org/pdf/1911.02685.pdf)
+-**Mainly computer vision**: A Survey of Unsupervised Deep Domain Adaptation [[ACM, TIST]](https://arxiv.org/pdf/1812.02849.pdf)
 
   
 ## Other Resources
