@@ -53,7 +53,9 @@ Pivot Based Language Modeling for Improved Neural Domain Adaptation." Yftah Zise
     
     Note: This paper experiments with cross domain and cross language adaptation, same groups of authors related to DAS paper. The results for this Amazon benchmark dataset is in Apendix B. The Authors' another related cross language adaptation paper 
     - **XML-UFD**: Unsupervised Domain Adaptation of a Pretrained Cross-Lingual Language Model [[IJCAI2020]](https://www.ijcai.org/Proceedings/2020/508)
-
+- ****: PERL: Pivot-based Domain Adaptation for Pre-trained Deep Contextualized Embedding Models [[Transactions of the Association for Computational Linguistics
+Volume 8, 2020
+p.504-521]](https://www.mitpressjournals.org/doi/full/10.1162/tacl_a_00328)
 
 ## Multi Source DA
 - **Mansour et al.(2009)**: Domain Adaptation with Multiple Sources [[NIPS2009]](https://papers.nips.cc/paper/3550-domain-adaptation-with-multiple-sources)
