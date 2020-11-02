@@ -38,7 +38,7 @@ similar idea to ours has been developed in parallel and independently for shallo
 layer) in (Ajakan et al., 2014). Their system is evaluated
 on a natural language task (sentiment analysis). "
 
-- **CORAL**: Return of Frustratingly Easy Domain Adaptation. [[AAAI16]](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/12443/11842) [[Matlab official]](https://github.com/VisionLearningGroup/CORAL)
+- **CORAL**: Return of Frustratingly Easy Domain Adaptation. [[AAAI16]](https://arxiv.org/abs/1612.01939) [[Matlab official]](https://github.com/VisionLearningGroup/CORAL)
 - **CORAL+mSDA**: Domain Adaptation for Sentiment Analysis [link](https://ashkamath.github.io/projects/Dom_ad/)
 - **AsyTri-training**:Asymmetric Tri-training for Unsupervised Domain Adaptation [[ICML2017]](https://arxiv.org/pdf/1702.08400.pdf) [[python code]](https://github.com/ksaito-ut/atda) Saito et al.2017
 - **DAS**: Adaptive Semi-supervised Learning for Cross-domain Sentiment Classification[[EMNLP2018]](https://arxiv.org/pdf/1702.08400.pdf)[[code]](https://github.com/ruidan/DAS) He et al 2018
